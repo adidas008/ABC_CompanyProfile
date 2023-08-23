@@ -1,3 +1,4 @@
 # ABC_CompanyProfile
 creating company profile for study purpose!
-![png](https://github.com/adidas008/ABC_CompanyProfile/assets/139938419/b7dc9dae-eb29-4076-bf0b-3fe985b670db)
+![logo](https://github.com/Indranil-Singh/ABC_CompanyProfile/assets/139938419/6f07fcb6-43de-4480-9315-1a2634df7c41)
+
