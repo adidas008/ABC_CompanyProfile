@@ -1,37 +1,22 @@
 /* Styles for the header section */
-
 header {
-
   display: flex;
-
   justify-content: space-between;
-
   align-items: center;
-
   padding: 20px;
-
   background-color: #f0f0f0;
-
 }
 
- 
-
 /* Style for the logo */
-
 .logo img {
 
   max-width: 100px;
-
-  height: auto;
-
-}
-
- 
-
-/* Styles for company info */
-
-.company-info {
-
-  text-align: center;
-
+  height: 100px;
+  background-color: rgb(77, 166, 214);
+    border-radius: 20%;
+    padding: 2px;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+   
 }
