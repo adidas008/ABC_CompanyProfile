@@ -1,0 +1,29 @@
+/* Styles for the header section */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(10, 153, 158);
+  }
+  
+  /* Style for the logo */
+  .logo img {
+  
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 100px;
+    height: 100px;
+    background-color: rgb(77, 166, 214);
+      border-radius: 20%;
+      padding: 2px;
+      box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2);
+      display: flex;
+      align-items: center;
+     
+  }
+  .company-name {
+    text-align: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+  }
