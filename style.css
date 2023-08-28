@@ -3,7 +3,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
     background-color: rgb(10, 153, 158);
   }
   
@@ -16,14 +15,28 @@ header {
     max-width: 100px;
     height: 100px;
     background-color: rgb(77, 166, 214);
-      border-radius: 20%;
-      padding: 2px;
-      box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2);
-      display: flex;
-      align-items: center;
+    border-radius: 20%;
+    padding: 2px;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
      
   }
+
+  /* Style for the company name */
   .company-name {
+    position:relative;
     text-align: center;
+    padding: 0px;
+    left: 20px;
+    font-family: 'Sedgwick Ave Display', cursive;
+  }
+
+  /* Style for the visitor counter */
+  .visitor-counter {
+    position:relative;
+    text-align: center;
+    padding: 0px;
+    right: 10px;
     font-family: 'Sedgwick Ave Display', cursive;
   }
